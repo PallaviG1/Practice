@@ -10,7 +10,7 @@ public class Sample4 {
 				System.out.print(" ");
 			}
 			for(int j=1;j<=star;j++) {
-				System.out.print("* ");
+				System.out.print("*");
 			}
 			System.out.println();
 			space--;
